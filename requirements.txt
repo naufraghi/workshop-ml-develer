@@ -1,0 +1,7 @@
+ipython
+ipython-notebook
+numpy
+scipy
+scikit-learn
+matplotlib
+pillow
