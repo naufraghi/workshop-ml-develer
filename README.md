@@ -1,7 +1,8 @@
+WiFi : cammellino987
 
 Check out the repo:
 
- `git co git@github.com:naufraghi/workshop-ml-develer.git`
+ `git clone git@github.com:naufraghi/workshop-ml-develer.git`
 
  `cd workshop-ml-develer`
 
