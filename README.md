@@ -4,6 +4,10 @@ Check out the repo:
 
  `git clone git@github.com:naufraghi/workshop-ml-develer.git`
 
+or
+
+ `git clone https://github.com/naufraghi/workshop-ml-develer.git`
+
  `cd workshop-ml-develer`
 
  `python configure.py` will download miniconda 64bit for your platform, if not [miniconda installer](http://conda.pydata.org/miniconda.html)
