@@ -5,7 +5,9 @@ Check out the repo:
 
  `cd workshop-ml-develer`
 
- `python configure.py` will download miniconda, if not [miniconda installer](http://conda.pydata.org/miniconda.html)
+ `python configure.py` will download miniconda 64bit for your platform, if not [miniconda installer](http://conda.pydata.org/miniconda.html)
+ 
+ `bash miniconda.sh` or `miniconda.exe` (not tested)
 
 set up your PATH for conda
 
